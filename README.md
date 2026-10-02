@@ -27,6 +27,7 @@
 | 🤖 **Bitcoin A.I App** | [app.bts.network](https://app.bts.network/) | Studio portal powering decentralized creator tools and AI workflows. |
 | 🌐 **Main Hub** | [bts.network](https://bts.network/) | Official home for Blackpaper V2, film production decks, and tokenomics. |
 | 📜 **Bitcoin Namespaces** | [BTSNS](https://github.com/BTSSTUDIOS/BTSNS) | Permanent on-chain Bitcoin Meta-Protocol namespace registry. |
+| 🔮 **Obsidian Flow** | [obsidianflow](https://github.com/BTSSTUDIOS/obsidianflow) | Next-generation studio pipeline & workflow engine for decentralized cinema. |
 
 ---
 
